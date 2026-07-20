@@ -6,9 +6,9 @@
  - [X] ethereal
  - [X] everforest
  - [X] flexoki-light
- - [ ] gruvbox
- - [ ] hackerman
- - [ ] kanagawa
+ - [X] gruvbox
+ - [X] hackerman
+ - [X] kanagawa
  - [ ] lumon
  - [ ] matte-black
  - [ ] miasma
