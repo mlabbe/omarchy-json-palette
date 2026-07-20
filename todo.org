@@ -1,0 +1,22 @@
+* Themes
+
+** TODO Themes to Palettize
+ - [X] catppuccin
+ - [X] catppuccin-latte
+ - [X] ethereal
+ - [X] everforest
+ - [ ] flexoki-light
+ - [ ] gruvbox
+ - [ ] hackerman
+ - [ ] kanagawa
+ - [ ] lumon
+ - [ ] matte-black
+ - [ ] miasma
+ - [ ] nord
+ - [ ] osaka-jade
+ - [ ] retro-82
+ - [ ] ristretto
+ - [ ] rose-pine
+ - [X] tokyo-night
+ - [ ] vantablack
+ - [ ] white
