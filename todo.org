@@ -5,7 +5,7 @@
  - [X] catppuccin-latte
  - [X] ethereal
  - [X] everforest
- - [ ] flexoki-light
+ - [X] flexoki-light
  - [ ] gruvbox
  - [ ] hackerman
  - [ ] kanagawa
