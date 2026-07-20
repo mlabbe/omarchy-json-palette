@@ -1,0 +1,392 @@
+{
+    "palettes": [
+        {
+            "title": "matte-black",
+            "color_hash": "2405471858",
+            "source": {
+                "conversion_date": "0"
+            },
+
+            "color_space": {
+                "name": "sRGB",
+                "is_linear": false
+            },
+
+            "colors": [
+                {
+                    "name": "color0",
+                    "red": "3e4ccccd",
+                    "green": "3e4ccccd",
+                    "blue": "3e4ccccd",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color1",
+                    "red": "3f53d3d4",
+                    "green": "3ebebebf",
+                    "blue": "3ebebebf",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color2",
+                    "red": "3f800000",
+                    "green": "3f41c1c2",
+                    "blue": "3ce0e0e1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color3",
+                    "red": "3f39b9ba",
+                    "green": "3de0e0e1",
+                    "blue": "3de0e0e1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color4",
+                    "red": "3f66e6e7",
+                    "green": "3f0e8e8f",
+                    "blue": "3d50d0d1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color5",
+                    "red": "3f53d3d4",
+                    "green": "3ebebebf",
+                    "blue": "3ebebebf",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color6",
+                    "red": "3f3ebebf",
+                    "green": "3f3ebebf",
+                    "blue": "3f3ebebf",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color7",
+                    "red": "3f3ebebf",
+                    "green": "3f3ebebf",
+                    "blue": "3f3ebebf",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color8",
+                    "red": "3f0a8a8b",
+                    "green": "3f0a8a8b",
+                    "blue": "3f0d8d8e",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color9",
+                    "red": "3f39b9ba",
+                    "green": "3de0e0e1",
+                    "blue": "3de0e0e1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color10",
+                    "red": "3f800000",
+                    "green": "3f41c1c2",
+                    "blue": "3ce0e0e1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color11",
+                    "red": "3f39b9ba",
+                    "green": "3d20a0a1",
+                    "blue": "3d20a0a1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color12",
+                    "red": "3f75f5f6",
+                    "green": "3f1e9e9f",
+                    "blue": "3d30b0b1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color13",
+                    "red": "3f39b9ba",
+                    "green": "3de0e0e1",
+                    "blue": "3de0e0e1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color14",
+                    "red": "3f6aeaeb",
+                    "green": "3f6aeaeb",
+                    "blue": "3f6aeaeb",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "color15",
+                    "red": "3f800000",
+                    "green": "3f800000",
+                    "blue": "3f800000",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "accent",
+                    "red": "3f66e6e7",
+                    "green": "3f0e8e8f",
+                    "blue": "3d50d0d1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "cursor",
+                    "red": "3f6aeaeb",
+                    "green": "3f6aeaeb",
+                    "blue": "3f6aeaeb",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "foreground",
+                    "red": "3f3ebebf",
+                    "green": "3f3ebebf",
+                    "blue": "3f3ebebf",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "background",
+                    "red": "3d909091",
+                    "green": "3d909091",
+                    "blue": "3d909091",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "selection_foreground",
+                    "red": "3f3ebebf",
+                    "green": "3f3ebebf",
+                    "blue": "3f3ebebf",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "selection_background",
+                    "red": "3ea2a2a3",
+                    "green": "3ea2a2a3",
+                    "blue": "3ea2a2a3",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "viridian",
+                    "red": "3ca0a0a1",
+                    "green": "3f169697",
+                    "blue": "3ed2d2d3",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "dark seafoam",
+                    "red": "3d808081",
+                    "green": "3f39b9ba",
+                    "blue": "3f018182",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "ocean green",
+                    "red": "3d909091",
+                    "green": "3f1b9b9c",
+                    "blue": "3ee0e0e1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "almost black",
+                    "red": "3dd0d0d1",
+                    "green": "3dd0d0d1",
+                    "blue": "3dd0d0d1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "blue/green",
+                    "red": "3df0f0f1",
+                    "green": "3f27a7a8",
+                    "blue": "3f20a0a1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "almost black 2",
+                    "red": "3e048485",
+                    "green": "3e048485",
+                    "blue": "3e048485",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "shamrock green",
+                    "red": "3e088889",
+                    "green": "3f45c5c6",
+                    "blue": "3ebcbcbd",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "topaz",
+                    "red": "3e109091",
+                    "green": "3f50d0d1",
+                    "blue": "3f47c7c8",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "dark grey",
+                    "red": "3e189899",
+                    "green": "3e189899",
+                    "blue": "3e189899",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "dark grey 2",
+                    "red": "3e28a8a9",
+                    "green": "3e28a8a9",
+                    "blue": "3e28a8a9",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "azul",
+                    "red": "3e48c8c9",
+                    "green": "3ebababb",
+                    "blue": "3f4acacb",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "dodger blue",
+                    "red": "3e6ceced",
+                    "green": "3f028283",
+                    "blue": "3f76f6f7",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "lightish blue",
+                    "red": "3e70f0f1",
+                    "green": "3ee2e2e3",
+                    "blue": "3f76f6f7",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "slate grey",
+                    "red": "3eb8b8b9",
+                    "green": "3ec6c6c7",
+                    "blue": "3ee0e0e1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "medium grey",
+                    "red": "3ee6e6e7",
+                    "green": "3ee6e6e7",
+                    "blue": "3ee6e6e7",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "purple",
+                    "red": "3f0d8d8e",
+                    "green": "3e008081",
+                    "blue": "3f32b2b3",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "vibrant purple",
+                    "red": "3f30b0b1",
+                    "green": "3e1c9c9d",
+                    "blue": "3f5ededf",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "ocher",
+                    "red": "3f3fbfc0",
+                    "green": "3f19999a",
+                    "blue": "3c40c0c1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "pumpkin",
+                    "red": "3f59d9da",
+                    "green": "3eeeeeef",
+                    "blue": "3cc0c0c1",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "cherry red",
+                    "red": "3f5cdcdd",
+                    "green": "3e189899",
+                    "blue": "3e189899",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "cherry red 2",
+                    "red": "3f66e6e7",
+                    "green": "3e088889",
+                    "blue": "3e088889",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "golden",
+                    "red": "3f6feff0",
+                    "green": "3f3fbfc0",
+                    "blue": "3c808081",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "maize",
+                    "red": "3f71f1f2",
+                    "green": "3f4bcbcc",
+                    "blue": "3e848485",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "salmon pink",
+                    "red": "3f78f8f9",
+                    "green": "3ee2e2e3",
+                    "blue": "3ee2e2e3",
+                    "alpha": "3f800000"
+                },
+                {
+                    "name": "golden rod",
+                    "red": "3f7bfbfc",
+                    "green": "3f3fbfc0",
+                    "blue": "3e109091",
+                    "alpha": "3f800000"
+                }
+            ],
+
+            "hints": {
+                "error": ["cherry red"],
+                "warning": ["pumpkin"],
+                "normal": ["color10", "pumpkin", "foreground", "dark grey 2"],
+                "success": ["dark seafoam"],
+                "highlight": ["color12"],
+                "urgent": ["cherry red"],
+                "low priority": ["slate grey"],
+                "bold": ["golden rod", "color12"],
+                "background": ["background"],
+                "background highlight": ["slate grey", "almost black 2"],
+                "focal point": ["color12"],
+                "title": ["pumpkin", "almost black"],
+                "subtitle": ["pumpkin", "almost black"],
+                "subsubtitle": ["pumpkin", "almost black"],
+                "todo": ["golden rod", "pumpkin"],
+                "fixme": ["cherry red"],
+                "sidebar": ["almost black 2"],
+                "subtle": ["color8"],
+                "shadow": ["dark grey 2"],
+                "specular": ["golden"],
+                "selection": ["selection_foreground", "selection_background"],
+                "comment": ["color8", "almost black"],
+                "string": ["color15"],
+                "keyword": ["dark seafoam"],
+                "variable": ["color14", "color6", "pumpkin"],
+                "operator": ["color8"],
+                "punctuation": ["color6"],
+                "inactive": ["color8"],
+                "function": ["color13"],
+                "method": ["topaz"],
+                "preprocessor": ["viridian"],
+                "type": ["golden"],
+                "constant": ["golden", "pumpkin"],
+                "link": ["dark seafoam"],
+                "cursor": ["cursor"]
+            },
+
+            "gradients": {
+            },
+
+            "dither_pairs": {
+            }
+        }
+    ]
+}

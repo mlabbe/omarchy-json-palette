@@ -9,8 +9,8 @@
  - [X] gruvbox
  - [X] hackerman
  - [X] kanagawa
- - [ ] lumon
- - [ ] matte-black
+ - [X] lumon
+ - [X] matte-black
  - [ ] miasma
  - [ ] nord
  - [ ] osaka-jade
