@@ -15,7 +15,7 @@
  - [X] nord
  - [X] osaka-jade
  - [X] retro-82
- - [ ] ristretto
+ - [X] ristretto
  - [ ] rose-pine
  - [X] tokyo-night
  - [ ] vantablack
