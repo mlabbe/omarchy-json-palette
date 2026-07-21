@@ -11,10 +11,10 @@
  - [X] kanagawa
  - [X] lumon
  - [X] matte-black
- - [ ] miasma
- - [ ] nord
- - [ ] osaka-jade
- - [ ] retro-82
+ - [X] miasma
+ - [X] nord
+ - [X] osaka-jade
+ - [X] retro-82
  - [ ] ristretto
  - [ ] rose-pine
  - [X] tokyo-night
