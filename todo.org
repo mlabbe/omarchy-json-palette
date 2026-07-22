@@ -19,4 +19,4 @@
  - [X] rose-pine
  - [X] tokyo-night
  - [X] vantablack
- - [ ] white
+ - [X] white
