@@ -18,5 +18,5 @@
  - [X] ristretto
  - [X] rose-pine
  - [X] tokyo-night
- - [ ] vantablack
+ - [X] vantablack
  - [ ] white
