@@ -16,7 +16,7 @@
  - [X] osaka-jade
  - [X] retro-82
  - [X] ristretto
- - [ ] rose-pine
+ - [X] rose-pine
  - [X] tokyo-night
  - [ ] vantablack
  - [ ] white
