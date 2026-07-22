@@ -29,3 +29,7 @@ No support for Omarchy fonts or theme detection -- this is only colour themes.
 Note: Author is aware that there is another set of Emacs Omarchy integrations at [https://github.com/scottjones/omarchy-emacs](https://github.com/frogtoss/palettetool/blob/main/docs/palette_format.md "this repo").  This is an alternative that uses the additional colors from Neovim.
 
 
+## Credit ##
+
+Credit goes to the original authors of the themes.  They are in a directory marked "official", which meas they are official themes. But I did not create them, and this is not an official Omarchy repo.
+
