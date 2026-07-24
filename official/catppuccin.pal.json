@@ -496,7 +496,7 @@
                 "warning": ["color3"],
                 "normal": ["foreground"],
                 "success": ["color2"],
-                "highlight": ["foreground", "peach", "light periwinkle"],
+                "highlight": ["foreground", "dark 9"],
                 "urgent": ["color1"],
                 "low priority": ["purplish grey", "steel"],
                 "bold": ["color3", "color4"],

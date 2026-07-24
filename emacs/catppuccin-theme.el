@@ -28,7 +28,7 @@
  '(nobreak-hyphen ((t (:foreground "#CCD5F3"))))
  '(header-line ((t (:foreground "#9399B2" :background "#1E1E2E"))))
  '(header-line-highlight ((t (:foreground "#F8E1AF" :background "#1E1E2E"))))
- '(highlight ((t (:foreground "#F9B387" :background "#1E1E2E"))))
+ '(highlight ((t (:foreground "#CCD5F3" :background "#1E1E2E"))))
  '(button ((t (:foreground "#CAA6F6" :underline t))))
 
  ;; code (font-lock)
@@ -75,7 +75,7 @@
  '(org-headline-done ((t (:foreground "#CAA6F6" :background "#1E1E2E"))))
  '(org-done ((t (:foreground "#CCD5F3"))))
  '(org-todo ((t (:foreground "#F8E1AF"))))
- '(org-checkbox ((t (:foreground "#F9B387" :background "#B4BEFD"))))
+ '(org-checkbox ((t (:foreground "#CCD5F3" :background "#2A2B3C"))))
  '(org-link ((t (:foreground "#B4BEFD" :background "#1E1E2E" :underline nil))))
  '(org-verbatim ((t (:foreground "#F8E1AF"))))
  '(org-code ((t (:foreground "#F8E1AF"))))
@@ -90,9 +90,10 @@
  '(org-block-begin-line ((t (:foreground "#9399B2" :background "#1E1E2E" :extend t))))
  '(org-block-end-line ((t (:inherit org-block-begin-line))))
  '(org-meta-line ((t (:foreground "#7F849C"))))
- '(org-superstar-header-bullet ((t (:foreground "#F9B387" :background "#1E1E2E" :overline t))))
+ '(org-superstar-header-bullet ((t (:foreground "#CCD5F3" :background "#1E1E2E" :overline t))))
  '(org-superstar-item ((t (:foreground "#F8E1AF"))))
  '(org-superstar-ordered-item ((t (:foreground "#F1CCCC"))))
+ '(org-hide ((t (:foreground "#1E1E2E"))))
 
  ;; markdown-mode
  '(markdown-header-face-1 ((t (:foreground "#F8E1AF" :height 220 :underline "#89B4F9"))))
@@ -161,7 +162,7 @@
  '(line-number-current-line ((t (:foreground "#9399B2" :background "#1E1E2E"))))
 
  ;; modeline (doom + standard)
- '(doom-modeline ((t (:foreground "#585B70"))))
+ '(doom-modeline ((t (:foreground "#4F6557"))))
  '(doom-modeline-bar ((t (:background "#1E1E2E"))))
  '(doom-modeline-bar-inactive ((t (:background "#1E1E2E"))))
  '(doom-modeline-buffer-modified ((t (:foreground "#F1CCCC" :weight bold))))
