@@ -454,7 +454,7 @@
                 "warning": ["camel"],
                 "normal": ["silver", "metallic blue 2", "sea", "dusk"],
                 "success": ["pale teal"],
-                "highlight": ["adobe", "sand brown"],
+                "highlight": ["charcoal grey", "pale teal"],
                 "urgent": ["clay"],
                 "low priority": ["dusk", "grey/blue"],
                 "bold": ["grey blue", "camel"],
