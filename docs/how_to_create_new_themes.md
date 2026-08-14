@@ -29,7 +29,7 @@ cd palettetool
 tools/neovim/batch_export.sh
 cp white.pal.json /tmp/themes/white-neovim.pal.json
 
-tools/omarchy/import_colors.py ~/.local/share/omarchy/themes/white/colors.toml -o /tmp/themes/white-toml.pal.json
+tools/omarchy/import_colors.py /usr/share/omarchy/themes/white/colors.toml -o /tmp/themes/white-toml.pal.json
 
 tools/omarchy/merge_theme_sources.py --from-toml /tmp/themes/white-toml.pal.json --from-neovim /tmp/themes/white-neovim.pal.json -o white.pal.json
 ```
